@@ -23,14 +23,22 @@
   .modal-content {
     padding: 50px 15px;
   }
+
+  .mainimage {
+    width: 100%;
+  }
 }
 
 @media only screen and (min-width: 991px) {
+
+  
 
   body.vegas-container,
   body {
     overflow: hidden;
   }
+
+   
 
   body.show-content {
     overflow: scroll;
